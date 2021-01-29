@@ -9,7 +9,7 @@ Figure 1 plots the DAB optimized input PMFs, which are practically optimal (the 
 
 Figure 2 plots the AC-AWGN channel capacity, log input cardinality, and input entropy as a function of 1/N (dB).
 
-Figure 3 plots the different between true SNR (known only after optimizing the input distribution, and 1/N (the SNR, assuming all the probability isd assignment to the maximum amplitude. 
+Figure 3 plots the difference between true SNR (known only after optimizing the input distribution, and 1/N (the SNR, assuming all the probability isd assignment to the maximum amplitude. 
 
 ![AC Plots Screenshot](/ACAWGN_Demo_SC.jpg)
 
